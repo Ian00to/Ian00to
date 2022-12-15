@@ -5,7 +5,10 @@
 ## You can quickly find me and my work here: 
 [![Instagram](https://img.shields.io/badge/Instagram-@natiff.co-blueviolet?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/natiff.co/)
 [![YouTube](https://img.shields.io/badge/YouTube-NATIFF-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@natiff7618)
+🎁 TecCEM ExpoIngenia: [EI 2022](https://www.instagram.com/p/ClmJYbPB0tB/) 
 ## My stronger Skills: 
+🤠 creativity - 🫱🏻‍🫲🏼 communication - 👊🏼 teamwork - 🫰🏻resilience 
+
 
 ## My tools:
 ![Office](https://img.shields.io/badge/Microsoft_Office_package-yellow?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=101010)</br>
