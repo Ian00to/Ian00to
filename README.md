@@ -27,6 +27,6 @@ I'm currently leading NATIFF 🫀, a model of nanotechnology🥽 student chapter
 [![Instagram](https://img.shields.io/badge/Instagram-@ian00to-FF1493?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/ian00to/)
 [![Facebook](https://img.shields.io/badge/Facebook-Ian_Solis-3b5998?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.instagram.com/ian00to/)
 ## Contact me:
-![Email](https://img.shields.io/badge/mail-"ian_solis21@hotmail.com"-C71585?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)</br>
-![Email](https://img.shields.io/badge/mail-A01367503@tec.mx-191970?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)</br>
-![Phone](https://img.shields.io/badge/Phone-(MEX)_722_8065749-FFE4E1?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)</br>
+![Email](https://img.shields.io/badge/"ian_solis21@hotmail.com"-C71585?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)</br>
+![Email](https://img.shields.io/badge/A01367503@tec.mx-191970?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)</br>
+![Phone](https://img.shields.io/badge/(MEX)_722_8065749-FFE4E1?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)</br>
