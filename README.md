@@ -5,11 +5,14 @@
 ## You can quickly find me and my work here: 
 [![Instagram](https://img.shields.io/badge/Instagram-@natiff.co-blueviolet?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/natiff.co/)
 [![YouTube](https://img.shields.io/badge/YouTube-NATIFF-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@natiff7618)
-🎁 TecCEM ExpoIngenia: [EI 2022](https://www.instagram.com/p/ClmJYbPB0tB/) 
+
+👀 TecCEM ExpoIngenia: [EI 2022](https://www.instagram.com/p/ClmJYbPB0tB/) 
+
+I'm currently leading NATIFF 🫀, a model of nanotechnology🥽 student chapter inside "Tecnológico de Monterrey CEM"🫂. As the president, I look up to always find new projects and collaborations, they can be oriented onto spreading moder ideas related qith science and nanotechnology🧑🏻‍🔬, or oriented to support modern activities, philosophies and projects, such as podcasts, conferences, etc🎒. 
+
+
 ## My stronger Skills: 
 🤠 creativity - 🫱🏻‍🫲🏼 communication - 👊🏼 teamwork - 🫰🏻resilience 
-
-
 ## My tools:
 ![Office](https://img.shields.io/badge/Microsoft_Office_package-yellow?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=101010)</br>
 ![Google](https://img.shields.io/badge/Google_tools-brightgreen?style=for-the-badge&logo=google&logoColor=white&labelColor=101010)</br>
