@@ -8,7 +8,7 @@
 
 👀 TecCEM ExpoIngenia: [EI 2022](https://www.instagram.com/p/ClmJYbPB0tB/) 
 
-I'm currently leading NATIFF 🫀, a model of nanotechnology🥽 student chapter inside "Tecnológico de Monterrey CEM"🫂. As the president, I look up to always find new projects and collaborations, they can be oriented onto spreading moder ideas related qith science and nanotechnology🧑🏻‍🔬, or oriented to support modern activities, philosophies and projects, such as podcasts, conferences, etc🎒. 
+I'm currently leading NATIFF 🫀, a model of nanotechnology🥽 student chapter inside "Tecnológico de Monterrey CEM"🫂. As the president, I look up to always find new projects and collaborations, they can be oriented onto spreading moder ideas related with science and nanotechnology🧑🏻‍🔬, or oriented to support modern activities, philosophies and projects, such as podcasts, conferences, etc🎒. 
 
 
 ## My stronger Skills: 
