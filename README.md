@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there ✌🏻 Thanks for reading my Profile 
+## My name is Javier Ian Solis Salazar, and I´m a Nanotechnology Engineer!!
+#
+
 
 <!--
 **Ian00to/Ian00to** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
