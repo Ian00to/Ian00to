@@ -1,6 +1,12 @@
-## Hi there ✌🏻 Thanks for reading my Profile 
-## My name is Javier Ian Solis Salazar, and I´m a Nanotechnology Engineer!!
-#
+# Hi there ✌🏻 Thanks for reading my Profile 
+### My name is Javier Ian Solis Salazar, and I´m a Nanotechnology Engineer!!
+### You will find a summary of my professional path here: 
+
+## You can quickly find me and my work here: 
+
+[![Instagram](https://img.shields.io/badge/Instagram-@natiff.co-blueviolet?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/natiff.co/)
+[![YouTube](https://img.shields.io/badge/YouTube-NATIFF-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@natiff7618)
+
 
 
 <!--
